@@ -1,4 +1,4 @@
-### Interplanetary Voyage Simulation Game
+### Space Shooter Game
 
 ## Objectives
 
